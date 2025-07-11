@@ -1,4 +1,4 @@
-# ¡Hola, mundo! 👋
+# ¡Hola a todos! 👋
 
 Mi nombre es **Joel Luizaga Merino**.  
 📚 Estudio la carrera de **Ingeniería Informática**.
